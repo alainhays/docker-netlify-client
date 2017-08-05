@@ -5,5 +5,5 @@
 # Purpose: build this docker image
 
 
-docker build -t netlify -t databliss/docker-netlify-client .
+docker build -t databliss/docker-netlify-client .
 
