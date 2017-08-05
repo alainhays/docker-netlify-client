@@ -1,0 +1,8 @@
+#!/bin/bash
+#
+# File: build
+#
+# Purpose: build this docker image
+
+
+docker build -t netlify -t databliss/docker-netlify-client .
